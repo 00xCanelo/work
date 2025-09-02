@@ -1,0 +1,25 @@
+{
+  "name": "cazwr-claimed-tool",
+  "version": "1.0.0",
+  "description": "Discord Tool By CazWR",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "CazWR",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^4.1.2",
+    "imapflow": "^1.0.191",
+    "inquirer": "^8.2.4",
+    "js-yaml": "^4.1.0",
+    "mailparser": "^3.7.4",
+    "node-imap": "^0.9.6",
+    "node-fetch": "^2.6.7",
+    "node-machine-id": "^1.0.10",
+    "puppeteer": "^21.5.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

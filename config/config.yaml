@@ -1,0 +1,14 @@
+# Browsers Paths Configuration You Can Change them To you Browsers Paths
+browser_paths:
+  chrome: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  edge: "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+  brave: "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+  opera: "C:\\Users\\hamod\\AppData\\Local\\Programs\\Opera\\opera.exe"
+  firefox: "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+
+# Typing Speed Configuration
+# Ultra_fast=0.1s
+# Fast=0.2s
+# Medium=0.5s
+# Slow=1s
+typing_speed: "Ultra_fast" 
